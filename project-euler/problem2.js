@@ -13,3 +13,4 @@ while (numero<=4000000) {
 }
 
 console.log(soma);
+
